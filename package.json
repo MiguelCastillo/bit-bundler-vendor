@@ -1,6 +1,6 @@
 {
   "name": "bit-bundler-vendor",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Bit bundler plugin to create vendor bundles",
   "main": "index.js",
   "scripts": {
@@ -14,12 +14,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MiguelCastillo/bit-bundler.git"
+    "url": "https://github.com/MiguelCastillo/bit-bundler-vendor.git"
   },
   "bugs": {
-    "url": "https://github.com/MiguelCastillo/bit-bundler/issues"
+    "url": "https://github.com/MiguelCastillo/bit-bundler-vendor/issues"
   },
-  "homepage": "https://github.com/MiguelCastillo/bit-bundler",
+  "homepage": "https://github.com/MiguelCastillo/bit-bundler-vendor",
   "dependencies": {
     "bit-bundler-utils": "^1.0.1"
   }
