@@ -1,6 +1,6 @@
 {
   "name": "bit-bundler-vendor",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Bit bundler plugin to create vendor bundles",
   "main": "index.js",
   "scripts": {
